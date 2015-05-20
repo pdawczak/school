@@ -1,0 +1,17 @@
+{
+    "name": "pdawczak/school",
+    "require-dev": {
+        "phpunit/phpunit": "~4.6"
+    },
+    "autoload": {
+        "psr-0": {
+            "School": "src"
+        }
+    },
+    "authors": [
+        {
+            "name": "Paweł Dawczak",
+            "email": "pawel.dawczak@gmail.com"
+        }
+    ]
+}
